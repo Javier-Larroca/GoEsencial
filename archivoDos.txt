@@ -1,0 +1,1 @@
+Esto es un dato almacenado desde GO
